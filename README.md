@@ -38,3 +38,4 @@ There should be a single space between the operator and the longest of the two o
 Numbers should be right-aligned.
 There should be four spaces between each problem.
 There should be dashes at the bottom of each problem. The dashes should run along the entire length of each problem individually. (The example above shows what this should look like.)
+o

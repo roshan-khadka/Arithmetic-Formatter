@@ -14,9 +14,13 @@ def arithmetic_arranger(problems):
      else:
       return "Error: Operator must be + or -."
     
-    # Next create a list of num_1 and num_2 
+    # append first and second num in diff var
     num1 = []
     num2 = []
+    
+    # Next operate based on num1[i] +/- num2[i]
+    # How to show the calculation the way questions want ????
+    # Print result
     
     
   
